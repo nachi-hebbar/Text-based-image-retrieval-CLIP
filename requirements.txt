@@ -1,0 +1,6 @@
+open-clip-torch
+streamlit
+chromadb==0.5.0
+pillow
+numpy
+tqdm
